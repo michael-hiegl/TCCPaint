@@ -1,0 +1,9 @@
+C:\Users\jvogl\source\repos\TCCPaint\TCCPaint\bin\Debug\TCCPaint.exe.config
+C:\Users\jvogl\source\repos\TCCPaint\TCCPaint\bin\Debug\TCCPaint.exe
+C:\Users\jvogl\source\repos\TCCPaint\TCCPaint\bin\Debug\TCCPaint.pdb
+C:\Users\jvogl\source\repos\TCCPaint\TCCPaint\obj\Debug\TCCPaint.csprojAssemblyReference.cache
+C:\Users\jvogl\source\repos\TCCPaint\TCCPaint\obj\Debug\TCCPaint.Form1.resources
+C:\Users\jvogl\source\repos\TCCPaint\TCCPaint\obj\Debug\TCCPaint.Properties.Resources.resources
+C:\Users\jvogl\source\repos\TCCPaint\TCCPaint\obj\Debug\TCCPaint.csproj.GenerateResource.cache
+C:\Users\jvogl\source\repos\TCCPaint\TCCPaint\obj\Debug\TCCPaint.exe
+C:\Users\jvogl\source\repos\TCCPaint\TCCPaint\obj\Debug\TCCPaint.pdb
